@@ -4,6 +4,9 @@ Directly run the .ipynb file to display outputs.
 
 
 
+![jd_book1_html_sourcepae.png](https://github.com/mame0521/python_crawl/blob/master/jd_book1_html_sourcepae.png?raw=true)
+
+
 
 ```python
 import requests  
@@ -14,6 +17,7 @@ import time
 import re
 import urlparse
 import urllib2
+
 
 #第一步，构建书籍的id列表
 
